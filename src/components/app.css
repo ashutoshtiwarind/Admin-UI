@@ -1,0 +1,24 @@
+.inputbar {
+    width: 400px;
+    height: 30px;
+    margin:auto;
+}
+.maindiv {
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+    padding: 20px;
+}
+.inputdiv {
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.headingdiv {
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+    padding: 20px;
+}
